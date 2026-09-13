@@ -1,6 +1,6 @@
 # Power BI Data Jobs Dashboard
 
-![Dashboard Preview](dashboard-preview.png)
+![Dashboard Preview](Dashboard-preview.png.jpeg)
 
 ## Project Overview
 
